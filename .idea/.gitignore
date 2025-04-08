@@ -7,3 +7,12 @@
 /dataSources/
 /dataSources.local.xml
 /$PROJECT_FILE$
+/checkstyle-idea.xml
+/codeStyles/codeStyleConfig.xml
+/dbnavigator.xml
+/encodings.xml
+/misc.xml
+/PMDPlugin.xml
+/codeStyles/Project.xml
+/qaplug_profiles.xml
+/vcs.xml
